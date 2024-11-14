@@ -37,7 +37,7 @@ Naïve Bayes (NB): Tested for its simplicity and efficiency, though it showed mo
 
 Support Vector Machine (SVM): Evaluated for potential precision, though it did not perform as effectively in this application.
 
-Training Process:
+#### Training Process:
 
 Split Dataset: Divided the data into training (70%) and testing (30%) sets.
 

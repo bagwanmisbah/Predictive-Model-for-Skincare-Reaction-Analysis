@@ -51,7 +51,7 @@ Metrics Used: Accuracy, Precision, and Confusion Matrix.
 
 ### Performance Summary:
 
-RFC: Achieved an accuracy of 99% with high precision across all classes, especially for Brightening and Neutral reactions.
+RFC: Achieved an accuracy of 98% with high precision across all classes, especially for Brightening and Neutral reactions.
 
 NB: Achieved 86% accuracy but showed lower precision in Brightening and Positive predictions.
 
@@ -61,7 +61,7 @@ SVM: Displayed an accuracy of 21%, indicating challenges in classifying reaction
 
 Model	Accuracy	Notable Precision for Brightening	Notable Precision for Neutral
 
-Random Forest	99%	1.00	0.99
+Random Forest	98%	1.00	0.99
 
 Naïve Bayes	86%	0.33	0.45
 

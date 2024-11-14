@@ -15,7 +15,7 @@ Attributes Analyzed: Age, melanin concentration, collagen amount, epidermis thic
 
 Target Variable: The model predicts Reaction with possible outcomes like Neutral, Positive, Brightening, Irritation, and Negative.
 
-Preprocessing Steps:
+##### Preprocessing Steps:
 
 Cleaned missing values and handled inconsistencies in data.
 

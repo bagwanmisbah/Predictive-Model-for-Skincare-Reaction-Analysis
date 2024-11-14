@@ -1,3 +1,3 @@
-# STC-Predicting-Skincare-Reactions
+Predictive Model for Skincare Reaction Analysis
 
-![Decision tree (1)](https://github.com/user-attachments/assets/41a32900-fd9c-4a79-b8ed-48bf00cd3c17)
+![Decision tree (3)](https://github.com/user-attachments/assets/a56a1ac8-ed69-4e8f-ba9b-b9791e2e72a4)

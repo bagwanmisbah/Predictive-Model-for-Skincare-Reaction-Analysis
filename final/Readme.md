@@ -21,13 +21,13 @@ Cleaned missing values and handled inconsistencies in data.
 
 Standardized the input values to ensure consistency across skin types, ingredient concentrations, and reactions.
 
-3. Data Encoding
+#### 2. Data Encoding
    
 One-Hot Encoding: Used for categorical columns (Skin Type and Ingredient) to transform them into a numerical format compatible with machine learning algorithms.
 
 Feature Matrix: Combined the one-hot encoded columns with other numerical attributes to create the final feature matrix.
 
-5. Model Selection and Training
+#### 3. Model Selection and Training
    
 Three machine learning models were implemented and tested to predict skincare reactions:
 
@@ -45,11 +45,11 @@ Train Models: Each model was trained on the training set and tuned to maximize p
 
 Feature Importance (RFC): Analyzed feature importance in RFC to understand which attributes most influenced skincare reactions.
 
-4. Model Evaluation
+#### 4. Model Evaluation
    
 Metrics Used: Accuracy, Precision, and Confusion Matrix.
 
-Performance Summary:
+### Performance Summary:
 
 RFC: Achieved an accuracy of 99% with high precision across all classes, especially for Brightening and Neutral reactions.
 
@@ -57,7 +57,7 @@ NB: Achieved 86% accuracy but showed lower precision in Brightening and Positive
 
 SVM: Displayed an accuracy of 21%, indicating challenges in classifying reactions accurately.
 
-Results
+### Results
 
 Model	Accuracy	Notable Precision for Brightening	Notable Precision for Neutral
 
@@ -69,7 +69,7 @@ Support Vector Machine	21%	0.10	0.05
 
 The Random Forest Classifier was selected as the final model due to its superior accuracy and precision in predicting the skin reaction classes.
 
-Conclusion
+### Conclusion
 
 This model highlights the potential of machine learning to provide inclusive, personalized skincare recommendations. 
 
